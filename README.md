@@ -2,7 +2,7 @@
 ## Description 
 
 # the team project:
-Amla Kadri - Emiliarita Iloakasy
+Amal Kadri - Emiliarita Iloakasy
 
 #introduction :
 the console is a command interpreter to mange objects abstraction between objects and how they are stored
